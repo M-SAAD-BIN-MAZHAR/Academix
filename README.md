@@ -1,2 +1,2 @@
 # Academix
-You are required to prepare a presentation and a written report on any topic related to Engineering. You may choose a topic from any engineering field (not limited to Software Engineering).
+In today's fast-paced digital world, students often find themselves distracted by numerous applications, hindering their academic focus. Our solution, Academix, is designed to centralize essential academic tools into a single, distraction-free mobile application. By consolidating functions such as a to-do list, calculator, AI assistant, reminder, notes, and calendar, we aim to help students stay organized and focused on their studies.
